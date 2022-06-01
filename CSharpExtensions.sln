@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{9FBB1802-9C01-4BA5-948E-C7C5D350923D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionsApp", "ExtensionConsoleApp\ExtensionsApp.csproj", "{F3C10CB8-17EC-4124-97FD-D188E3B69F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBB1802-9C01-4BA5-948E-C7C5D350923D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBB1802-9C01-4BA5-948E-C7C5D350923D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBB1802-9C01-4BA5-948E-C7C5D350923D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBB1802-9C01-4BA5-948E-C7C5D350923D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C10CB8-17EC-4124-97FD-D188E3B69F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C10CB8-17EC-4124-97FD-D188E3B69F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C10CB8-17EC-4124-97FD-D188E3B69F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C10CB8-17EC-4124-97FD-D188E3B69F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7ED0DD-3DD1-4C3E-B61D-5B8AC185D088}
+	EndGlobalSection
+EndGlobal
